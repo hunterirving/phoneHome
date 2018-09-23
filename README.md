@@ -1,13 +1,13 @@
 # phoneHome
 
-
+*<h3>Your phone - just as "smart" as you want it to be.</h3>*
 ```
            ______   _____
         /       _ . _      \
-      /  / ____/     \____ \ \ 
-     |  ,( -O-\   _   / -O-), |
-      \      _/ (,-,) \_     /
-        \         |        /      ()
+      /  / ____/     \____  \ 
+     |  ,(( ◕)\  _  /( ◕)), |
+      \       _/(,-,) \_     /
+        \         |        /      ◯
            \   -.___.-   /         \\
               \  __   /             ||
                | _   |             _| --_
@@ -23,5 +23,10 @@
 /_/
 
 ```
+<hr>
 
-*<h3>Your phone... just as "smart" as you want it to be.</h1>*
+# What is phoneHome?
+
+# Okay... but _Why?_
+
+# Anything You Can Do, I Can Do ~~Better~~ Too
