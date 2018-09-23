@@ -8,9 +8,10 @@
 ___phoneHome___ is a suite of server-side software designed to make any "dumb" phone smarter... but not ___too___ smart.
 
 ```
-           ______   _____
-        /       _ . _      \
-      /  / ____/  _  \____   \ 
+            _____    ____
+         /        \-      \
+       /                    \
+      /    ____/  _  \____   \ 
      |  ,(( ◕)\  _  /( ◕)), |
       \        /(,-,)\       /      ✧
         \     /   |   \    /       〇 ✧
@@ -31,8 +32,9 @@ ___phoneHome___ is a suite of server-side software designed to make any "dumb" p
 >searching for modules...
 ```
 
-- phoneHome runs on and internet enabled computer
-- phoneHome listens for incoming SMS text messages, parses them as commands, then sends the appropriate response to your mobile phone as an SMS text message
+<h3>phoneHome is server-side software</h3>
+phoneHome runs on any internet-enabled computer.
+phoneHome listens for incoming SMS text messages, parses them as commands, then sends the appropriate response to your mobile phone as an SMS text message
 - phoneHome's modular design allows you to pick and choose the features you want, making your phone _"just as smart as you want it to be"_
 - __phoneHome is modular__ - pick and choose the features you want, making your phone "just as smart as you want it to be"
 - __phoneHome is multi-user__ - add an unlimited amount of users to ___user.py___'s whitelist. Commands are evaluated in the order they are recieved, and multiplayer, text-based games such as chess are already implemented
