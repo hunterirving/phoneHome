@@ -114,6 +114,8 @@ phoneHome uses an advanced image generation algorithm (aka Google images) to "ge
 
 images are uploaded to <b><a href="http://www.instagram.com/huntersdumbphone">The Cloud™</a></b> where your friends can like™ and comment™ on (approximations of) your exciting life.
 
+<img src="res/selfie.png">
+
 <h3>magic 8-ball</h3>
 <img src="res/magic8ball.png">
 trust your heart. let fate decide.
