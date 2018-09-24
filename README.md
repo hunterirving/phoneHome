@@ -8,21 +8,20 @@
 ___phoneHome___ is a suite of server-side software designed to make any "dumb" phone smarter... but not ___too___ smart.
 
 ```
-            _____    ____
-         /        \-      \
-       /                    \
+           ______    ____
+        /         \-       \
       /    ____/  _  \____   \ 
      |  ,(( ◕)\  _  /( ◕)), |
-      \        /(,-,)\       /      ✧
-        \     /   |   \    /       〇 ✧
-          \    -.___.-   /          \\
-             \   __    /             ||
+      \        /(,-,)\       /     ✧
+        \     /   |   \    /      〇 ✧
+          \    -.___.-   /         \\
+             \   __   /             ||
               |  _   |             _| --_
               \   _  |            | _\ ,//
                \  _   \            \    /
           ___  /   __   \ ____      |  |
         /            _          \  /   |
-      /    __                     _   /_
+      /    __                     __  /_
      ___  / /_  ____  ____  ___  / / / /___  ____ ___  ___
    / __ \/ __ \/ __ \/ __ \/ _ \/ /_/ / __ \/ __ `__ \/ _ \
   / /_/ / / / / /_/ / / / /  __/ __  / /_/ / / / / / /  __/
@@ -33,10 +32,16 @@ ___phoneHome___ is a suite of server-side software designed to make any "dumb" p
 ```
 
 <h3>phoneHome is server-side software</h3>
-phoneHome runs on any internet-enabled computer.
-phoneHome listens for incoming SMS text messages, parses them as commands, then sends the appropriate response to your mobile phone as an SMS text message
-- phoneHome's modular design allows you to pick and choose the features you want, making your phone _"just as smart as you want it to be"_
-- __phoneHome is modular__ - pick and choose the features you want, making your phone "just as smart as you want it to be"
+phoneHome runs on any old computer you have lying around (so long as it's got ___innanet___).
+Here's the main loop:
+1. listen for incoming SMS text messages
+2. attempt to interpret recieved messages as commands
+3. if a recieved message contains a recognized command, execute the command, then...
+4. send a response containing the output from 
+
+then sends the appropriate response to your mobile phone as an SMS text message
+<h3>phoneHome is modular</h3>
+phoneHome's modular design allows you pick and choose the features you want, rendering your phone "just as smart as you want it to be"
 - __phoneHome is multi-user__ - add an unlimited amount of users to ___user.py___'s whitelist. Commands are evaluated in the order they are recieved, and multiplayer, text-based games such as chess are already implemented
 
 # Okay... but _Why?_
