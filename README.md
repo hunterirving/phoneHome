@@ -2,6 +2,8 @@
 
 *<h3>Your phone - just as "smart" as you want it to be.</h3>*
 
+<img src="">
+
 <hr>
 
 # What is phoneHome?
@@ -66,20 +68,62 @@ But unless you're a hippie or a cave hermit, you'll probably still want to carry
 
 ___A dumb phone.___
 
-<img src = "res/dumbphone.png">
+<img src = "res/dumbphone.jpg">
 
-There's a very real honeymoon phase - you've got just what you need, and nothing you don't.<br>
+There's a very real honeymoon phase.<br>
+Just calls and texts! You've got everything what you need, and nothing you don't.<br>
 It's elegant.<br>
 It's nostalgic.<br>
 It's... ａｅｓｔｈｅｔｉｃ.
 
-Soon though, you'll find yourself missing the useful tools that so-called-smartphones come with as standard.
+Soon though, you'll find yourself missing the useful tools that those so-called-smartphones come with as standard.
 
-> "It sure would be nice if I knew today's weather forecast..." <br><br>
+> "It sure would be nice to know today's weather forecast..." <br><br>
 > "I wish I didn't have to call my brother to ask for Google Maps directions..." <br><br>
-> "What if I could summon an uber............. from a dumbphone..............." <br><br>
+> "What is a 'kumquat'..?"<br><br>
+> "ok....... what if I could summon an uber............. from a dumbphone..............."
+<br>
 
 # Anything You Can Do, I Can Do ~~Better~~ Too
+
+Use these and other modules to augment your abilities.
+
+<h3>weather feature</h3>
+<img src="res/weatherfeature.gif">
+finally, an answer to the age old question: will it rain today?
+
+<h3>encyclopedia feature</h3>
+<img src="res/encyclopedia.gif">
+
+can you remember a time before the internet?<br>
+when, if you had a question, you just had to _wonder_ for a while..?
+
+<span style="background-color: #FFFF00">Marked text</span>
+
+well those days are long over.
+
+<h3>tip calculator</h3>
+<img src="res/tip.gif">
+
+m'lady.
+
+<h3>camera feature</h3>
+<img src="res/camera.gif">
+
+almost everything you could ever want to capture with a photograph has already been captured in a photograph.
+phoneHome uses an advanced image generation algorithm (aka Google images) to "generate" images based on your text description of the scene in front of you
+
+<h3>magic 8-ball</h3>
+
+<h3>chess</h3>
+
+<h3>snake</h3>
+
+<h3>uber</h3>
+Get from here to there
+
+
+
 
 # Installation Instructions
 
