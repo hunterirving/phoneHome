@@ -76,12 +76,12 @@ It's elegant.<br>
 It's nostalgic.<br>
 It's... ａｅｓｔｈｅｔｉｃ.
 
-Soon though, you'll find yourself missing the useful tools that those so-called-smartphones come with as standard.
+You won't miss Facebook or the incessant notifications, but soon enough you'll find yourself missing the useful tools that those so-called-smartphones come with as standard.
 
-> "It sure would be nice to know today's weather forecast..." <br><br>
-> "I wish I didn't have to call my brother to ask for Google Maps directions..." <br><br>
-> "What is a 'kumquat'..?"<br><br>
-> "ok....... what if I could summon an uber............. from a dumbphone..............."
+>_"It sure would be nice to know today's weather forecast....." <br><br>
+>"I wish I didn't have to call my brother to ask for Google Maps directions......" <br><br>
+>"WTF is a 'kumquat'.....?"<br><br>
+>"ok....... what if I could summon an uber............. from a dumbphone..............."_
 <br>
 
 # Anything You Can Do, I Can Do ~~Better~~ Too
@@ -89,7 +89,7 @@ Soon though, you'll find yourself missing the useful tools that those so-called-
 Use these and other modules to augment your abilities.
 
 <h3>weather feature</h3>
-<img src="res/weatherfeature.gif">
+<img src="res/weatherfeature.png">
 finally, an answer to the age old question: will it rain today?
 
 <h3>encyclopedia feature</h3>
@@ -98,31 +98,39 @@ finally, an answer to the age old question: will it rain today?
 can you remember a time before the internet?<br>
 when, if you had a question, you just had to _wonder_ for a while..?
 
-<span style="background-color: #FFFF00">Marked text</span>
-
 well those days are long over.
 
 <h3>tip calculator</h3>
-<img src="res/tip.gif">
+<img src="res/tip.png">
 
 m'lady.
 
 <h3>camera feature</h3>
-<img src="res/camera.gif">
+<img src="res/camera.png">
 
 almost everything you could ever want to capture with a photograph has already been captured in a photograph.
-phoneHome uses an advanced image generation algorithm (aka Google images) to "generate" images based on your text description of the scene in front of you
+
+phoneHome uses an advanced image generation algorithm (aka Google images) to "generate" images based on your text description of the scene you see before you.
+
+images are uploaded to <b><a href="http://www.instagram.com/huntersdumbphone">The Cloud™</a></b> where your friends can like™ and comment™ on (approximations of) your exciting life.
 
 <h3>magic 8-ball</h3>
+<img src="res/magic8ball.png">
+trust your heart. let fate decide.
 
 <h3>chess</h3>
+<img src="res/chess.png">
+a game of skill for two players.
 
 <h3>snake</h3>
+<img src="res/snake.png">
+that old Nokia 3310 standby, reimagined for the modern age.
+
+...as it's played on a frame-by-frame basis, this version is more of a "thinkin' man's game"
 
 <h3>uber</h3>
-Get from here to there
-
-
+<img src="res/uber.png">
+Get from here to there in no time flat.
 
 
 # Installation Instructions
