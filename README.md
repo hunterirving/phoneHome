@@ -71,7 +71,7 @@ ___A dumb phone.___
 <img src = "res/dumbphone.jpg">
 
 There's a very real honeymoon phase.<br>
-Just calls and texts! You've got everything what you need, and nothing you don't.<br>
+Just calls and texts! You've got everything you need, and nothing you don't.<br>
 It's elegant.<br>
 It's nostalgic.<br>
 It's... ａｅｓｔｈｅｔｉｃ.
@@ -86,7 +86,7 @@ You won't miss Facebook or the incessant notifications, but soon enough you'll f
 
 # Anything You Can Do, I Can Do ~~Better~~ Too
 
-Use these and other modules to augment your abilities.
+_Use these and other modules to augment your abilities._
 
 <h3>weather feature</h3>
 <img src="res/weatherfeature.png">
@@ -136,5 +136,11 @@ Get from here to there in no time flat.
 # Installation Instructions
 
 # At Your Service
+If you have any questions or need help setting up a phoneHome server of your own, feel free to <b><a href="https://github.com/hunterirving/phoneHome/issues">open an issue</a>!</b>
+
+I'd be more than happy to help you figure things out :-)
 
 # Credits
+>phoneHome is one part joke, one part real-life useful tool, and two parts cool party trick.
+>
+>developed by Hunter and Josh Irving in 2018.
