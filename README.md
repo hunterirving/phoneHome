@@ -9,8 +9,8 @@ ___phoneHome___ is a suite of server-side software designed to make any "dumb" p
 
 ```
            ______    ____
-        /         \-       \
-      /    ____/  _  \____   \ 
+        /         \-      \
+      /    ____/  _  \____  \ 
      |  ,(( ◕)\  _  /( ◕)), |
       \        /(,-,)\       /     ✧
         \     /   |   \    /      〇 ✧
@@ -32,17 +32,27 @@ ___phoneHome___ is a suite of server-side software designed to make any "dumb" p
 ```
 
 <h3>phoneHome is server-side software</h3>
+
 phoneHome runs on any old computer you have lying around (so long as it's got ___innanet___).
-Here's the main loop:
+
+Here's the main loop:<i>
 1. listen for incoming SMS text messages
 2. attempt to interpret recieved messages as commands
 3. if a recieved message contains a recognized command, execute the command, then...
-4. send a response containing the output from 
+4. send a response containing the output from running the parsed command back to the sender as an SMS text message
+</i>
 
-then sends the appropriate response to your mobile phone as an SMS text message
 <h3>phoneHome is modular</h3>
-phoneHome's modular design allows you pick and choose the features you want, rendering your phone "just as smart as you want it to be"
-- __phoneHome is multi-user__ - add an unlimited amount of users to ___user.py___'s whitelist. Commands are evaluated in the order they are recieved, and multiplayer, text-based games such as chess are already implemented
+
+phoneHome's modular design allows you pick and choose the features you want, rendering your phone <br>
+_"just as smart as you want it to be."_
+
+<h3>phoneHome is multi-user</h3>
+
+A freedom most unprecidented.<br>
+You can add an __UNLIMITED__ amount of users to ___user.py___'s whitelist, and any number of users can interact with the software simultaneously.
+
+Commands are evaluated in the order they are recieved, and multiplayer, text-based games are possible (2 player text-based chess is already implemented).
 
 # Okay... but _Why?_
 
