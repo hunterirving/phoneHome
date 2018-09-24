@@ -31,7 +31,7 @@
 >searching for modules...
 ```
 
-<h3>phoneHome is server-side software</h3>
+<h3>phoneHome is a suite of tools to make dumbphones smarter</h3>
 
 phoneHome runs on any old computer you have lying around (so long as it's got ___innanet___),
 <br>and executes this main loop ad infinitum:
@@ -64,13 +64,13 @@ ___Smartphone Addiction___ is a very real and very serious condition that affect
 
 The obvious-but-hard-to-swallow cure for Smartphone Addiction is, obviously, ditching your smartphone.
 
-But unless you're a hippie or a cave hermit, you'll probably still want to carry _something_ around in your pocket to talk to people... just maybe something with a few less distracting features... Maybe something like
+But unless you're a hippie or a cave hermit, you'll probably still want to carry _something_ around in your pocket for talking to people... just maybe something with a few less distracting features... Maybe something like
 
 ___A dumb phone.___
 
-<img src = "res/dumbphone.jpg">
+<img src = "res/dumbphone.jpg" width="50%" length="50%">
 
-There's a very real honeymoon phase.<br>
+There is a very real honeymoon phase.<br>
 Just calls and texts! You've got everything you need, and nothing you don't.<br>
 It's elegant.<br>
 It's nostalgic.<br>
@@ -86,7 +86,7 @@ You won't miss Facebook or the incessant notifications, but soon enough you'll f
 
 # Anything You Can Do, I Can Do ~~Better~~ Too
 
-_Use these and other modules to augment your abilities._
+Use these and other modules to augment your abilities.
 
 <h3>weather feature</h3>
 <img src="res/weatherfeature.png">
@@ -126,14 +126,15 @@ a game of skill for two players.
 <img src="res/snake.png">
 that old Nokia 3310 standby, reimagined for the modern age.
 
-...as it's played on a frame-by-frame basis, this version is more of a "thinkin' man's game"
+as it's played on a frame-by-frame basis, this version is more of a "thinkin' man's game"
 
 <h3>uber</h3>
 <img src="res/uber.png">
-Get from here to there in no time flat.
+Get from "where you are" to "where you wish you were" in no time flat.
 
 
 # Installation Instructions
+
 
 # At Your Service
 If you have any questions or need help setting up a phoneHome server of your own, feel free to <b><a href="https://github.com/hunterirving/phoneHome/issues">open an issue</a>!</b>
