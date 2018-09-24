@@ -39,7 +39,7 @@ phoneHome runs on any old computer you have lying around (so long as it's got __
 1. listen for incoming SMS text messages
 2. attempt to interpret recieved messages as commands
 3. if a recieved message contains a recognized command, execute the command, then...
-4. send a response containing the output from running the parsed command back to the sender as an SMS text message
+4. send a response containing its output back to the sender as an SMS text message
 </i>
 
 <h3>phoneHome is modular</h3>
