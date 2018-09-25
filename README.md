@@ -53,8 +53,7 @@ _"just as smart as you want it to be."_
 
 <h3>phoneHome is multi-user</h3>
 
-A freedom most unprecidented.<br>
-You can add an __UNLIMITED__ amount of users to ___user.py___'s whitelist, and any number of users can interact with the software simultaneously.
+A freedom most unprecidented - any number of users can interact with the software simultaneously.
 
 <img src="res/userlisting.png" width="75%">
 
