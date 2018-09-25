@@ -67,7 +67,7 @@ The obvious-but-hard-to-swallow cure for Smartphone Addiction is, obviously, dit
 
 But, unless you're a hippie or a cave hermit, you'll probably still want to carry _something_ around in your pocket for talking to people... just maybe something with a few less distracting features... something so uninteresting that you won't get addicted to it... something like
 
-___A dumb phone.___
+<h3>A dumb phone.</h3>
 
 <img src = "res/dumbphone.jpg" width="50%" length="50%">
 
@@ -89,29 +89,27 @@ You won't miss Facebook or the incessant notifications, but soon enough you'll f
 
 Use these and other modules to augment your abilities.
 
-<h3>weather feature</h3>
+<h2>weather feature</h2>
 finally, an answer to the age old question: will it rain today?
-<br>
+<br><br>
 <img src="res/weather.png">
 
-
-<h3>encyclopedia feature</h3>
+<h2>encyclopedia feature</h2>
 can you remember a time before the internet?<br>
 
-when, if you had a question, you just had to _wonder_ for a while..?
+when, if you had a question, you just had to _wonder_ for a while..?<br>
 
 well those days are long over.
 <br>
 
 <img src="res/wiki.png">
 
-<h3>tip calculator</h3>
+<h2>tip calculator</h2>
 
 <img src="res/tip.png">
-m'lady.
 
 
-<h3>camera feature</h3>
+<h2>camera feature</h2>
 <img src="res/instagram.png">
 
 almost everything you could ever want to capture with a photograph has already been captured in a photograph.
@@ -119,26 +117,34 @@ almost everything you could ever want to capture with a photograph has already b
 phoneHome uses an advanced image generation algorithm (aka Google images) to "generate" images based on your text description of the scene you see before you.
 
 images are uploaded to <b><a href="http://www.instagram.com/huntersdumbphone">The Cloud™</a></b> where your friends can like™ and comment™ on (approximations of) your exciting life.
-
+<br>
+<br>
 <img src="res/instaoutput.png">
 
-<h3>magic 8-ball</h3>
-trust your heart. let fate decide.
+<h2>magic 8-ball</h2>
 <img src="res/8ball.png">
 
-<h3>chess</h3>
-<img src="res/chess.png">
+<h2>chess</h2>
 a game of skill for two players.
+<br>
+<img src="res/chess.png">
 
-<h3>snake</h3>
-<img src="res/snake.png">
+<h2>snake</h2>
 that old Nokia 3310 standby, reimagined for the modern age.
 
 as it's played on a frame-by-frame basis, this version is more of a "thinkin' man's game"
 
-<h3>uber</h3>
+<img src="res/snake.png">
+
+<h2>uber</h2>
 Get from "where you are" to "where you wish you were" in no time flat.
+
+
 <img src="res/uber.png">
+
+
+<br><br>
+<hr>
 
 # Installation Instructions
 
