@@ -49,8 +49,7 @@ phoneHome runs on any old computer you have lying around (so long as it's got __
 phoneHome's modular design allows you pick and choose the features you want, rendering your phone <br>
 _"just as smart as you want it to be."_
 
-<br>
-<img src="res/modulardesign.png" width="27%">
+<img src="res/modulardesign.png" width="24%">
 
 <h3>phoneHome is multi-user</h3>
 
@@ -79,7 +78,7 @@ It's elegant.<br>
 It's nostalgic.<br>
 It's... <b>ａｅｓｔｈｅｔｉｃ.</b>
 
-You won't miss Facebook or the incessant notifications, but soon enough you'll find yourself missing the useful tools that those so-called-smartphones come with as standard.
+You won't miss Facebook or the incessant notifications, but soon enough you'll find yourself missing the useful tools that those so-called-smartphones come with as standard:
 <br><br>
 >_"It sure would be nice to know today's weather forecast....." <br><br>
 >"I wish I didn't have to call my brother to ask for Google Maps directions......" <br><br>
