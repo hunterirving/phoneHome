@@ -2,7 +2,7 @@
 
 *<h3>Your phone - just as "smart" as you want it to be.</h3>*
 
-<img src="">
+<img src="phonegif.gif">
 
 <hr>
 
@@ -139,6 +139,7 @@ Get from "where you are" to "where you wish you were" in no time flat.
 
 # Installation Instructions
 
+uh.. coming soon
 
 # At Your Service
 If you have any questions or need help setting up a phoneHome server of your own, feel free to <b><a href="https://github.com/hunterirving/phoneHome/issues">open an issue</a>!</b>
