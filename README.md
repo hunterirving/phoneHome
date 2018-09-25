@@ -65,16 +65,16 @@ ___Smartphone Addiction___ is a very real and very serious condition that affect
 
 The obvious-but-hard-to-swallow cure for Smartphone Addiction is, obviously, ditching your smartphone.
 
-But unless you're a hippie or a cave hermit, you'll probably still want to carry _something_ around in your pocket for talking to people... just maybe something with a few less distracting features... Maybe something like
+But, unless you're a hippie or a cave hermit, you'll probably still want to carry _something_ around in your pocket for talking to people... just maybe something with a few less distracting features... Something so uninteresting that you won't get addicted to it... Something like
 
 ___A dumb phone.___
 
 <img src = "res/dumbphone.jpg" width="50%" length="50%">
 
 There is a very real honeymoon phase.<br><br>
-Just calls and texts! You've got everything you need, and nothing you don't.<br>
-It's elegant.<br>
-It's nostalgic.<br>
+You've got everything you need, and nothing you don't.<br>
+It's elegant!<br>
+It's nostalgic!<br>
 It's... <b>ａｅｓｔｈｅｔｉｃ.</b>
 
 You won't miss Facebook or the incessant notifications, but soon enough you'll find yourself missing the useful tools that those so-called-smartphones come with as standard:
