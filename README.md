@@ -65,7 +65,7 @@ ___Smartphone Addiction___ is a very real and very serious condition that affect
 
 The obvious-but-hard-to-swallow cure for Smartphone Addiction is, obviously, ditching your smartphone.
 
-But, unless you're a hippie or a cave hermit, you'll probably still want to carry _something_ around in your pocket for talking to people... just maybe something with a few less distracting features... Something so uninteresting that you won't get addicted to it... Something like
+But, unless you're a hippie or a cave hermit, you'll probably still want to carry _something_ around in your pocket for talking to people... just maybe something with a few less distracting features... something so uninteresting that you won't get addicted to it... something like
 
 ___A dumb phone.___
 
@@ -90,24 +90,29 @@ You won't miss Facebook or the incessant notifications, but soon enough you'll f
 Use these and other modules to augment your abilities.
 
 <h3>weather feature</h3>
-<!--- <img src="res/weatherfeature.png"> --->
 finally, an answer to the age old question: will it rain today?
+<br>
+<img src="res/weather.png">
+
 
 <h3>encyclopedia feature</h3>
-<!--- <img src="res/encyclopedia.gif"> --->
-
 can you remember a time before the internet?<br>
+
 when, if you had a question, you just had to _wonder_ for a while..?
 
 well those days are long over.
+<br>
+
+<img src="res/wiki.png">
 
 <h3>tip calculator</h3>
-<!--- <img src="res/tip.png"> --->
 
+<img src="res/tip.png">
 m'lady.
 
+
 <h3>camera feature</h3>
-<!--- <img src="res/camera.png"> --->
+<img src="res/instagram.png">
 
 almost everything you could ever want to capture with a photograph has already been captured in a photograph.
 
@@ -115,26 +120,25 @@ phoneHome uses an advanced image generation algorithm (aka Google images) to "ge
 
 images are uploaded to <b><a href="http://www.instagram.com/huntersdumbphone">The Cloud™</a></b> where your friends can like™ and comment™ on (approximations of) your exciting life.
 
-<!--- <img src="res/selfie.png"> --->
+<img src="res/instaoutput.png">
 
 <h3>magic 8-ball</h3>
-<!--- <img src="res/magic8ball.png"> --->
 trust your heart. let fate decide.
+<img src="res/8ball.png">
 
 <h3>chess</h3>
-<!--- <img src="res/chess.png"> --->
+<img src="res/chess.png">
 a game of skill for two players.
 
 <h3>snake</h3>
-<!--- <img src="res/snake.png"> --->
+<img src="res/snake.png">
 that old Nokia 3310 standby, reimagined for the modern age.
 
 as it's played on a frame-by-frame basis, this version is more of a "thinkin' man's game"
 
 <h3>uber</h3>
-<!--- <img src="res/uber.png"> --->
 Get from "where you are" to "where you wish you were" in no time flat.
-
+<img src="res/uber.png">
 
 # Installation Instructions
 
