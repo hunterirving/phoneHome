@@ -41,22 +41,23 @@ phoneHome runs on any old computer you have lying around (so long as it's got __
 3. if a recieved message contains a recognized command, execute the command, then...
 4. send a response containing its output back to the sender as an SMS text message
 </i>
-
-<img src="res/commandrecieved.png">
+<br>
+<img src="res/commandrecieved.png" width="20%">
 
 <h3>phoneHome is modular</h3>
 
 phoneHome's modular design allows you pick and choose the features you want, rendering your phone <br>
 _"just as smart as you want it to be."_
 
-<img src="">
+<br>
+<img src="res/modulardesign.png" width="27%">
 
 <h3>phoneHome is multi-user</h3>
 
 A freedom most unprecidented.<br>
 You can add an __UNLIMITED__ amount of users to ___user.py___'s whitelist, and any number of users can interact with the software simultaneously.
 
-<img src="">
+<img src="res/userlisting.png" width="75%">
 
 Commands are evaluated in the order they are recieved, and multiplayer, text-based games are possible (2 player, SMS text-based Chess has already been implemented, and a Multi-User Dungeon Crawler has been planned).
 
