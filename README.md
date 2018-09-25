@@ -31,7 +31,7 @@
 >searching for modules...
 ```
 
-<h3>phoneHome is a suite of tools to make dumbphones smarter</h3>
+<h2>phoneHome is a suite of tools to make dumbphones smarter</h2>
 
 phoneHome runs on any old computer you have lying around (so long as it's got ___innanet___),
 <br>and executes this main loop ad infinitum:
@@ -44,14 +44,14 @@ phoneHome runs on any old computer you have lying around (so long as it's got __
 <br>
 <img src="res/commandrecieved.png" width="20%">
 
-<h3>phoneHome is modular</h3>
+<h2>phoneHome is modular</h2>
 
 phoneHome's modular design allows you pick and choose the features you want, rendering your phone <br>
 _"just as smart as you want it to be."_
 
 <img src="res/modulardesign.png" width="24%">
 
-<h3>phoneHome is multi-user</h3>
+<h2>phoneHome is multi-user</h2>
 
 A freedom most unprecidented - any number of users can interact with the software simultaneously.
 
@@ -139,7 +139,7 @@ as it's played on a frame-by-frame basis, this version is more of a "thinkin' ma
 <h2>uber</h2>
 Get from "where you are" to "where you wish you were" in no time flat.
 
-
+<br><br>
 <img src="res/uber.png">
 
 
