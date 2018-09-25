@@ -126,7 +126,7 @@ images are uploaded to <b><a href="http://www.instagram.com/huntersdumbphone">Th
 
 <h2>chess</h2>
 a game of skill for two players.
-<br>
+<br><br>
 <img src="res/chess.png">
 
 <h2>snake</h2>
