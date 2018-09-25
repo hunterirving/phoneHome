@@ -2,7 +2,7 @@
 
 *<h3>Your phone - just as "smart" as you want it to be.</h3>*
 
-<img src="phonegif.gif">
+<!--- <img src="phonegif.gif"> --->
 
 <hr>
 
@@ -90,11 +90,11 @@ You won't miss Facebook or the incessant notifications, but soon enough you'll f
 Use these and other modules to augment your abilities.
 
 <h3>weather feature</h3>
-<img src="res/weatherfeature.png">
+<!--- <img src="res/weatherfeature.png"> --->
 finally, an answer to the age old question: will it rain today?
 
 <h3>encyclopedia feature</h3>
-<img src="res/encyclopedia.gif">
+<!--- <img src="res/encyclopedia.gif"> --->
 
 can you remember a time before the internet?<br>
 when, if you had a question, you just had to _wonder_ for a while..?
@@ -102,12 +102,12 @@ when, if you had a question, you just had to _wonder_ for a while..?
 well those days are long over.
 
 <h3>tip calculator</h3>
-<img src="res/tip.png">
+<!--- <img src="res/tip.png"> --->
 
 m'lady.
 
 <h3>camera feature</h3>
-<img src="res/camera.png">
+<!--- <img src="res/camera.png"> --->
 
 almost everything you could ever want to capture with a photograph has already been captured in a photograph.
 
@@ -115,24 +115,24 @@ phoneHome uses an advanced image generation algorithm (aka Google images) to "ge
 
 images are uploaded to <b><a href="http://www.instagram.com/huntersdumbphone">The Cloud™</a></b> where your friends can like™ and comment™ on (approximations of) your exciting life.
 
-<img src="res/selfie.png">
+<!--- <img src="res/selfie.png"> --->
 
 <h3>magic 8-ball</h3>
-<img src="res/magic8ball.png">
+<!--- <img src="res/magic8ball.png"> --->
 trust your heart. let fate decide.
 
 <h3>chess</h3>
-<img src="res/chess.png">
+<!--- <img src="res/chess.png"> --->
 a game of skill for two players.
 
 <h3>snake</h3>
-<img src="res/snake.png">
+<!--- <img src="res/snake.png"> --->
 that old Nokia 3310 standby, reimagined for the modern age.
 
 as it's played on a frame-by-frame basis, this version is more of a "thinkin' man's game"
 
 <h3>uber</h3>
-<img src="res/uber.png">
+<!--- <img src="res/uber.png"> --->
 Get from "where you are" to "where you wish you were" in no time flat.
 
 
