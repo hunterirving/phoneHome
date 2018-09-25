@@ -42,6 +42,8 @@ phoneHome runs on any old computer you have lying around (so long as it's got __
 4. send a response containing its output back to the sender as an SMS text message
 </i>
 
+<img src="res/commandrecieved.png">
+
 <h3>phoneHome is modular</h3>
 
 phoneHome's modular design allows you pick and choose the features you want, rendering your phone <br>
@@ -70,14 +72,14 @@ ___A dumb phone.___
 
 <img src = "res/dumbphone.jpg" width="50%" length="50%">
 
-There is a very real honeymoon phase.<br>
+There is a very real honeymoon phase.<br><br>
 Just calls and texts! You've got everything you need, and nothing you don't.<br>
 It's elegant.<br>
 It's nostalgic.<br>
-It's... ａｅｓｔｈｅｔｉｃ.
+It's... <b>ａｅｓｔｈｅｔｉｃ.</b>
 
 You won't miss Facebook or the incessant notifications, but soon enough you'll find yourself missing the useful tools that those so-called-smartphones come with as standard.
-
+<br><br>
 >_"It sure would be nice to know today's weather forecast....." <br><br>
 >"I wish I didn't have to call my brother to ask for Google Maps directions......" <br><br>
 >"WTF is a 'kumquat'.....?"<br><br>
