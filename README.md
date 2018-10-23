@@ -36,10 +36,10 @@
 phoneHome runs on any old computer you have lying around (so long as it's got ___innanet___),
 <br>and executes this main loop ad infinitum:
 
-1. listen for incoming SMS text messages from your cell phone
-2. attempt to interpret recieved messages as commands
-3. if a recieved message contains a recognized command, execute the command, then...
-4. send the appropriate response back to the user as a text
+1. listen for incoming SMS text messages from registered users
+2. attempt to interpret incoming messages as commands
+3. compute responses to parsed commands
+4. send responses back to users as SMS text messages
 </i>
 <br>
 <img src="res/commandrecieved.png" width="20%">
