@@ -43,18 +43,18 @@ phoneHome runs on any old computer you have lying around and executes this main 
 <br>
 <img src="res/commandrecieved.png" width="20%">
 
+<h2>phoneHome is multi-user</h2>
+
+<img src="res/userlisting.png" width="75%">
+
+Commands are evaluated in the order they are recieved, and multiplayer, text-based games are possible (2 player, SMS text-based Chess has already been implemented, and a Multi-User Dungeon Crawler is planned).
+
 <h2>phoneHome is modular</h2>
 
 phoneHome's modular design allows you pick and choose the features you want, rendering your phone <br>
 _"just as smart as you want it to be."_
 
 <img src="res/modulardesign.png" width="24%">
-
-<h2>phoneHome is multi-user</h2>
-
-<img src="res/userlisting.png" width="75%">
-
-Commands are evaluated in the order they are recieved, and multiplayer, text-based games are possible (2 player, SMS text-based Chess has already been implemented, and a Multi-User Dungeon Crawler is planned).
 
 # Okay... but _Why?_
 
