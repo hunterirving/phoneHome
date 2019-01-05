@@ -33,8 +33,7 @@
 
 <h2>phoneHome is a suite of tools to make dumbphones smarter</h2>
 
-phoneHome runs on any old computer you have lying around (so long as it's got ___innanet___),
-<br>and executes this main loop ad infinitum:
+phoneHome runs on any old computer you have lying around and executes this main loop ad infinitum:
 
 1. listen for incoming SMS text messages from registered users
 2. attempt to interpret incoming messages as commands
@@ -53,11 +52,9 @@ _"just as smart as you want it to be."_
 
 <h2>phoneHome is multi-user</h2>
 
-A freedom most unprecidented - any number of users can interact with the software simultaneously.
-
 <img src="res/userlisting.png" width="75%">
 
-Commands are evaluated in the order they are recieved, and multiplayer, text-based games are possible (2 player, SMS text-based Chess has already been implemented, and a Multi-User Dungeon Crawler has been planned).
+Commands are evaluated in the order they are recieved, and multiplayer, text-based games are possible (2 player, SMS text-based Chess has already been implemented, and a Multi-User Dungeon Crawler is planned).
 
 # Okay... but _Why?_
 
