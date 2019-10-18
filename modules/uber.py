@@ -105,5 +105,3 @@ def getTo(tailSMS):
     splitSMS = tailSMS.split(" to ")
     toString = splitSMS[1]
     return toString
-
-#print(generateResponse("price 700 E Mercer St. to Chuck's Hop Shop Central District", True, "hunna", "17076536037.12067341810.KgJLfz3rS2@txt.voice.google.com", 7))
