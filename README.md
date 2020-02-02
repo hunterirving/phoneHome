@@ -154,4 +154,4 @@ I'd be more than happy to help you figure things out :-)
 # Credits
 >phoneHome is one part joke, one part real-life useful tool, and two parts cool party trick.
 >
->developed by Hunter and Josh Irving in 2018.
+>developed by Hunter and Josh Irving in 2018!
