@@ -1,4 +1,87 @@
 # phoneHome
+# phoneHome
+
+*<h3>Your phone - just as "smart" as you want it to be.</h3>*
+
+<!--- <img src="phonegif.gif"> --->
+
+<hr>
+
+# What is phoneHome?
+```
+           ______    ____
+        /         \-      \
+      /    ____/  _  \____  \ 
+     |  ,(( ◕)\  _  /( ◕)), |
+      \        /(,-,)\       /     ✧
+        \     /   |   \    /      〇 ✧
+          \    -.___.-   /         \\
+             \   __   /             ||
+              |  _   |             _| --_
+              \   _  |            | _\ ,//
+               \  _   \            \    /
+          ___  /   __   \ ____      |  |
+        /            _          \  /   |
+      /    __                     __  /_
+     ___  / /_  ____  ____  ___  / / / /___  ____ ___  ___
+   / __ \/ __ \/ __ \/ __ \/ _ \/ /_/ / __ \/ __ `__ \/ _ \
+  / /_/ / / / / /_/ / / / /  __/ __  / /_/ / / / / / /  __/
+ / .___/_/ /_/\____/_/ /_/\___/_/ /_/\____/_/ /_/ /_/\___/
+/_/
+
+>searching for modules...
+```
+
+<h2>phoneHome is a suite of tools to make dumbphones smarter</h2>
+
+phoneHome runs on any old computer you have lying around and executes this main loop ad infinitum:
+
+1. listen for incoming SMS text messages from registered users
+2. attempt to interpret incoming messages as commands
+3. compute responses to parsed commands
+4. send responses back to users as SMS text messages
+</i>
+<br>
+<img src="res/commandrecieved.png" width="20%">
+
+<h2>phoneHome is multi-user</h2>
+
+Commands are evaluated in the order they are recieved, and multiplayer, text-based games are possible (2 player, SMS text-based Chess has already been implemented, and a Multi-User Dungeon Crawler has been imagined about).
+
+<h2>phoneHome is modular</h2>
+
+phoneHome's modular design allows you pick and choose the features you want, rendering your phone <br>
+_"just as smart as you want it to be."_
+
+<img src="res/modulardesign.png" width="24%">
+
+# Okay... but _Why?_
+
+___Smartphone Addiction___ is a very real and very serious condition that affects an estimated....... __everyone.__
+
+The obvious-but-hard-to-swallow cure is, obviously, ditching your smartphone.
+
+But unless you're a hippie or a cave hermit, you'll probably still want to carry _something_ around in your pocket for talking to people... just maybe something with a few less distracting features... something so uninteresting that you won't get addicted to it... something like
+
+<h3>A dumb phone.</h3>
+
+<img src = "res/dumbphone.jpg" width="50%" length="50%">
+
+There is a very real honeymoon phase.<br><br>
+You've got everything you need, and nothing you don't.<br>
+It's elegant!<br>
+It's nostalgic!<br>
+It's... <b>ａｅｓｔｈｅｔｉｃ.</b>
+
+You won't miss Facebook or the incessant notifications, but soon enough you'll find yourself missing the useful tools that those so-called-smartphones come with as standard:
+<br><br>
+>_"It sure would be nice to know today's weather forecast....." <br><br>
+>"I wish I didn't have to call my brother to ask for Google Maps directions......" <br><br>
+>"WTF is a 'kumquat'.....?"<br><br>
+>"ok....... what if I could summon an uber............. from a dumbphone..............."_
+<br>
+
+# Anything You Can Do, I Can Do ~~Better~~ Too
 
 Use these and other modules to augment your abilities.
 
