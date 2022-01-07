@@ -41,8 +41,7 @@ Commands are evaluated in the order they are recieved, and multiplayer, text-bas
 
 <h2>phoneHome is modular</h2>
 
-phoneHome's modular design allows you pick and choose the features you want, rendering your phone <br>
-_"just as smart as you want it to be."_
+phoneHome's modular design allows you pick and choose the features you want, rendering your phone _"just as smart as you want it to be."_
 
 <img src="res/modulardesign.png" width="24%">
 
@@ -52,7 +51,7 @@ ___Smartphone Addiction___ is a very real and very serious condition that affect
 
 The obvious-but-hard-to-swallow cure is, obviously, ditching your smartphone.
 
-But unless you're a hippie or a cave hermit, you'll probably still want to carry _something_ around in your pocket for talking to people... just maybe something with a few less distracting features... something so uninteresting that you won't get addicted to it... something like
+But unless you're a cave hermit, you'll probably still want to carry _something_ around in your pocket for talking to people... just maybe something with a few less distracting features... something so uninteresting that you won't get addicted to it... something like
 
 <h3>A dumb phone.</h3>
 
