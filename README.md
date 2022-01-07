@@ -122,6 +122,8 @@ as it's played on a frame-by-frame basis, this version is more of a "thinkin' ma
 
 <img src="res/snake.png" width="40%">
 
+(Josh wrote this part!)
+
 <h2>uber</h2>
 Get from "where you are" to "where you wish you were" in no time flat.
 <br>
