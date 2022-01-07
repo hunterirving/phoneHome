@@ -126,7 +126,7 @@ as it's played on a frame-by-frame basis, this version is more of a "thinkin' ma
 
 <h2>uber</h2>
 Get from "where you are" to "where you wish you were" in no time flat.
-<br>
+<br><br>
 <img src="res/uber.png" width="40%">
 
 
