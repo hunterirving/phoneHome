@@ -1,5 +1,3 @@
-# phoneHome
-
 *<h3>Your phone - just as "smart" as you want it to be.</h3>*
 
 <!--- <img src="phonegif.gif"> --->
